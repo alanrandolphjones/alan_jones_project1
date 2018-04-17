@@ -1,0 +1,7 @@
+Fonts
+Open Sans (Google Fonts)
+Source Serif Pro (Google Fonts)
+
+Icons: 
+Font Awesome (http://fontawesome.io/)
+Flat Icons (https://www.flaticon.com/)
